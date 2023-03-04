@@ -71,6 +71,8 @@
     - [Ansible for DevOps](https://www.amazon.com/Ansible-DevOps-Server-configuration-management/dp/0986393428/ref=sr_1_4) (Advanced Book)
 ## Step 3: CI/CD (Continuous Integration and Continuous Delivery)
 - ### Azure DevOps
+   - Videops:
+     - [Azure DevOps tutorial for beginners](https://www.youtube.com/watch?v=4BibQ69MD8c) (Beginner Video) 
 - ### GitLab 
   - Books/Docs/Code:
     - [Mastering GitLab 12: Implement DevOps culture and repository management solutions](https://www.amazon.com/Mastering-GitLab-Implement-repository-management-ebook/dp/B07W6F6SGG/ref=sr_1_3) (Beginner-To-Advanced English book to get familiar with GitLab and its scenarios as the real-world examples explain.)
