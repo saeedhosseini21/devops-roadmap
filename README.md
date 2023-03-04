@@ -104,6 +104,8 @@
     - [Prometheus Tutorial | Monitoring with Prometheus And Grafana | Prometheus Grafana Tutorial | Edureka](https://www.youtube.com/watch?v=7gW5pSM6dlU)
 ## Step 6: Secret Management
  - ### Hashicorp Vault
+   - Videos:
+     - [HashiCorp Vault Tutorial for Beginners](https://www.youtube.com/watch?v=ae72pKpXe-s)(Beginner video)
 
 
 
